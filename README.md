@@ -8,6 +8,10 @@ A Software Engineering student at the University of Brasília (UnB) who loves to
 
 *   **Equipe Rover:** Helping organize and develop autonomous robotics solutions for competition loops.
 
+### ✅ Completed Projects
+
+*   **[CyberSetor](https://github.com/mdsreq-fga-unb/REQ-2026.2-T02-CyberSetor):** Developed an integrated project and accountability management system (NestJS, Prisma, PostgreSQL, Next.js) for *Instituto Cultural e Social No Setor* under the Software Requirements Engineering course at UnB. Acted as Requirements Engineer and Full-Stack Developer: modeled AS-IS workflows in BPMN, analyzed client rules and domain consensus, and co-owned the Reporting and Goals epics — implementing immutable execution report finalization, rectification audit trails, mandatory justification enforcement, CSV/XLSX data exports, and automated E2E tests.
+
 ### 🌱 Toolbox & Skills
 
 *   **Languages:** C, C++, Python, Assembly, VHDL
